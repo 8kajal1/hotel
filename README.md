@@ -1,2 +1,3 @@
 # hotel
-This is my first
+This is my first 
+Author - Kajal Kumari
